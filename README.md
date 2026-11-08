@@ -23,6 +23,9 @@ This repository is a concept and engineering-planning project. It combines two s
 
 The project translates those references into a proposed Miami Space Port architecture. Source-derived points, project proposals, and illustrative simulator values are distinguished in the documentation.
 
+Miami Space Port project references PDF (sources)
+https://acrobat.adobe.com/id/urn:aaid:sc:US:dd558cd6-391c-40a9-afe6-2e1da582dfc9
+
 ## Run locally
 
 No build step or third-party dependencies are required for the browser simulator.

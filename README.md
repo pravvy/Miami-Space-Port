@@ -1,6 +1,15 @@
 # Miami Space Port 2026
 
+working demos (simulator)
+
+Space Port Control
+https://htmlpreview.github.io/?https://github.com/pravvy/Miami-Space-Port/blob/main/index.html?utm_source=chatgpt.com
+
+Launch Day Control 
+https://sites.google.com/u/0/d/1HQd49msT2ApYfqNfDmBRBO68sXkxdOJy/preview
+
 **Dream. Build. Launch.** An open-source concept for a next-generation Miami spaceport, combining facility development, spacecraft and mission operations, Space Station OS (SSOS) architecture, and orbital data infrastructure.
+
 
 ## Project overview
 
